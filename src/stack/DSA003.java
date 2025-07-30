@@ -42,9 +42,9 @@ public class DSA003 {
         st.push(44);
         st.push(54);
         st.push(64);
-
-        for (int i = 0; i < 4; i++) {
-            System.out.println(st[i]);
-        }
+//
+//        for (int i = 0; i < 4; i++) {
+//            System.out.println(st[i]);
+//        }
     }
 }
